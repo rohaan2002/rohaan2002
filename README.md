@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Rohan</h1>
-<h3 align="center">A passionate frontend developer from Delhi-NCR, India</h3>
+<h3 align="center">A passionate Fullstack developer from Delhi-NCR, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohaan2002&label=Profile%20views&color=0e75b6&style=flat" alt="rohaan2002" /> </p>
 
-- 🔭 I’m currently working on **React JS**
+- 🔭 I’m currently working on **MERN + NextJS**
 
-- 🌱 I’m currently learning **some cool projects and NodeJS**
+- 🌱 I employ learning **MongoDB, PostGres and MySQL** for my projects
 
-- 📫 How to reach me **rohanpachauri02@gmail.com**
+- I am using PHP for working around my latest Project!
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1qBTBJykkx3lo7NL0pQ76uTwjfuwTiYBz](https://drive.google.com/drive/folders/1qBTBJykkx3lo7NL0pQ76uTwjfuwTiYBz)
+- 📫 How to reach me **rohanpachauri01@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
